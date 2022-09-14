@@ -1,5 +1,8 @@
 function Home(){
-    return <dev>Home</dev>
+    return <dev>Home
+
+        <p>Verificado</p>
+    </dev>
 }
 
-export defualt Home
+export default Home
