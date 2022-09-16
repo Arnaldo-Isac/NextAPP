@@ -3,8 +3,8 @@ import MainContainer from "../components/MainContainer";
 
 export default function Product(){
     return <>
-        <h1> Produtos</h1>
         <MainContainer />
+        <h1> Produtos</h1>
         <p>Lista de produtos</p>
         <Link href="/">
              <a>Inicio</a>  

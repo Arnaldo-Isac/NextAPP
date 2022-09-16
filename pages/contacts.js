@@ -5,7 +5,7 @@ export default function Contacts(){
     return <>
             <MainContainer />
             <h1>Nossos cotactos</h1>
-            <p>Acerca da empresa ou instituição</p>
+            <p>Contactos da empresa ou instituição: </p>
                 voltar a página <Link href="/"> 
                     <a>Principal</a>
                 </Link>
