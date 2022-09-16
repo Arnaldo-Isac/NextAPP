@@ -1,7 +1,7 @@
 import Link from "next/link"
 import MainContainer from '../components/MainContainer'
 
-export default function Contacto(){
+export default function Contacts(){
     return <>
             <MainContainer />
             <h1>Nossos cotactos</h1>
