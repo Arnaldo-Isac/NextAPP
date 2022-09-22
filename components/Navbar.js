@@ -1,9 +1,9 @@
 import Link from 'next/link'
-import styles from '../styles/Navbar.modules.css'
+import styles from '../styles/Navbar.module.css'
 
 export default function Navbar(){
     return <>
-        <ul className={styles.navbar}>
+        <ul className='{stles.navbar}'>
             <il>
                 <Link href="/"><a>
                     Home
