@@ -1,8 +1,9 @@
 .navbar{
-    background-image: url('');
     display:flex;
     padding: 20px 10px;
-    background-color: #ccc;
+    color: black;
+    align-content: space-between;
+    background-color: rgb(25, 81, 165);
 }
 
 .item{
@@ -11,4 +12,8 @@
 
 .item a{
     text-decoration: none;
+}
+
+.item a:hover{
+    text-shadow: rgb(234, 241, 241);
 }
