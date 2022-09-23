@@ -1,6 +1,8 @@
 .footer{
-    text-align: center;
-    min-width: none;
-    min-height: 200px;
-    background: #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100px;
+    color: #eee;
+    background: #444;
 }

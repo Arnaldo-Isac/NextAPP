@@ -10,10 +10,11 @@
     margin-right: 10px;
 }
 
-.item a{
+.navbar a{
     text-decoration: none;
+    color: azure;
 }
 
-.item a:hover{
-    text-shadow: rgb(234, 241, 241);
+.navbar a:hover{
+    color: brown;
 }
